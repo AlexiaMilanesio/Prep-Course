@@ -1,0 +1,3 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Funciones Callback: callback es la capacidad de pasar una función como argumento de otra función. La convención es pasar cb como argumento para la variable que se usará de callback.
